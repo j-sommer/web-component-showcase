@@ -1,1 +1,1 @@
-# web-component-showcase
+# Web Component Showcase
