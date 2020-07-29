@@ -1,3 +1,6 @@
 [submodule "web-components/web-component-starter"]
 	path = web-components/web-component-starter
 	url = https://github.com/j-sommer/web-component-starter.git
+[submodule "web-components/js-header"]
+	path = web-components/js-header
+	url = https://github.com/j-sommer/js-header.git
