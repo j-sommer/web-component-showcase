@@ -1,0 +1,3 @@
+[submodule "web-components/web-component-starter"]
+	path = web-components/web-component-starter
+	url = https://github.com/j-sommer/web-component-starter.git
